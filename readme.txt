@@ -19,4 +19,4 @@ Directions to run code:
 
   install above packages
   download bettermdptools' file
-  run the assignment4.ipynb code file
+  run the assignment4_code.ipynb code file
