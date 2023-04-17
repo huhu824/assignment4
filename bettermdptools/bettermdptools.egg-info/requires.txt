@@ -1,0 +1,9 @@
+gym<=0.26.2,>=0.26
+math
+gym
+pygame
+numpy
+tqdm
+pandas
+seaborn
+matplotlib
